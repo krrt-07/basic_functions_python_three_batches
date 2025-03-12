@@ -9,4 +9,5 @@ while count < 10:
 # make a condition to check if the number is odd.
     if number % 2 != 0:
     # make a command that will count how many odd numbers is there.
+        sum += 1
 # print the count of odd numbers.
