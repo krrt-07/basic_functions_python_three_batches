@@ -7,4 +7,5 @@ while count < 10:
     number = int(input("Enter a number:"))
     count += 1
 # make a command that add all numbers.
+    sum += number
 # print the sum of all numbers.
