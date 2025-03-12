@@ -9,3 +9,4 @@ while code < 10:
     if number % 2 == 0:
         sum += 1
 # print the counted even numbers.
+print(sum)
