@@ -1,3 +1,5 @@
+---------------------------------------------------------------------------------------------------------------------------------
+
 BATCH 1
 
 Prog01: Create a program that ask user to input 2 numbers. Print the bigger number.
@@ -43,3 +45,5 @@ Prog08: Create a program that print all the odd numbers starting from 0 to 100. 
 Prog09: Create a program that print all the numbers starting from 0 to 100 except numbers ending in zero or ending five.
 
 Prog10: Create a program that ask user to input 2 numbers. Print all the numbers between the two numbers.
+
+---------------------------------------------------------------------------------------------------------------------------------
