@@ -11,3 +11,4 @@ while count < 10:
     # make a command that will count how many odd numbers is there.
         sum += 1
 # print the count of odd numbers.
+print(sum)
