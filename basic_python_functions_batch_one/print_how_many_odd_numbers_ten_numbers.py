@@ -7,4 +7,6 @@ while count < 10:
     number = int(input("Enter a number: "))
     count += 1
 # make a condition to check if the number is odd.
-# make a command that will count how many odd numbers is there and print it.
+    if number % 2 != 0:
+    # make a command that will count how many odd numbers is there.
+# print the count of odd numbers.
