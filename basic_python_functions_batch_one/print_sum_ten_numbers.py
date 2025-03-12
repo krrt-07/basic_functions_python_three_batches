@@ -9,3 +9,4 @@ while count < 10:
 # make a command that add all numbers.
     sum += number
 # print the sum of all numbers.
+print(sum)
