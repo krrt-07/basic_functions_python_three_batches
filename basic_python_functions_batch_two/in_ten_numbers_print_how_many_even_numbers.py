@@ -2,5 +2,8 @@
 code = 0
 sum = 0
 # make a while loop that will run ten times to ask for a number.
+while code < 10:
+    code += 1
+    number = int(input("Enter a number: "))
     # make a condition to check if the number is even and list it.
 # print the counted even numbers.
