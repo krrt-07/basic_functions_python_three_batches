@@ -6,4 +6,6 @@ while code < 10:
     code += 1
     number = int(input("Enter a number: "))
     # make a condition to check if the number is even and list it.
+    if number % 2 == 0:
+        sum += 1
 # print the counted even numbers.
