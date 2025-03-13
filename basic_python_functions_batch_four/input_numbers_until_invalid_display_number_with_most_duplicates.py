@@ -4,6 +4,9 @@ numbers = []
 while True:
     user_input = input("Enter a number: ")
 # Make a condition that will check if the input is not a valid integer.
+    if not user_input.isdigit():
+        print("Invalid input. Stopping the program.")
+        break
 # Convert input to integer.
 # Add the valid number to the list.
 # Find the number with the most duplicates by making a condition using maximum "max()" and print it.
