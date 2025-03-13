@@ -8,6 +8,7 @@ while True:
         print("Invalid input. Stopping the program.")
         break
 # Convert input to integer.
+    num = int(user_input)
 # Add the valid number to the list.
 # Sort the list from highest to lowest.
 # Display the numbers from highest to lowest.
