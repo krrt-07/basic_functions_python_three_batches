@@ -8,5 +8,6 @@ while True:
         print("Invalid input. Stopping the program.")
         break
 # Convert input to integer.
+num = int(user_input)
 # Check if the number is already in the list.
 # print the number.
