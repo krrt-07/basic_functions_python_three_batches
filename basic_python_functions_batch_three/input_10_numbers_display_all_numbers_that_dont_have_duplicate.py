@@ -7,3 +7,4 @@ for i in range(10):
 # Find numbers that appear only once.
 unique_numbers = [num for num in numbers if numbers.count(num) == 1]
 # Display the unique numbers
+print(unique_numbers)
