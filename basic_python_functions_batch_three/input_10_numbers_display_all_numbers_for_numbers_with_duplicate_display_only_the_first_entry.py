@@ -7,3 +7,5 @@ for i in range(10):
     if num not in numbers:
         numbers.append(num)
 # Display the numbers (only first occurrences of duplicates).
+print("Numbers with duplicates removed (only first entry kept):")
+print(*numbers)
