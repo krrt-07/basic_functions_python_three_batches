@@ -14,3 +14,6 @@ while True:
 # Sort the list from highest to lowest.
 numbers.sort(reverse=True)
 # Display the numbers from highest to lowest.
+if numbers:
+    print("Numbers from highest to lowest:")
+    print(numbers)
