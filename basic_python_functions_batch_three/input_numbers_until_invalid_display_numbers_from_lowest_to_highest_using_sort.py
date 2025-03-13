@@ -14,3 +14,8 @@ while True:
 # Sort the list from lowest to highest.
 numbers.sort()
 # Display the sorted numbers.
+if numbers:
+    print("Numbers sorted from lowest to highest:")
+    print(numbers)
+else:
+    print("No valid numbers were entered.")
