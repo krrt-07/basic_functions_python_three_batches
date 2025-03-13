@@ -10,4 +10,5 @@ while True:
 # Convert input to integer.
     num = int(user_input)
 # Add the valid number to the list.
+    numbers.append(num)
 # find the Highest number of all of the numbers by making a condition and using maximum "max()" and print it.
