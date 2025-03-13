@@ -8,5 +8,6 @@ while True:
         print("Invalid input. Stopping the program.")
         break
 # Convert input to integer.
+    num = int(user_input)
 # Add the valid number to the list.
 # Find the number with the most duplicates by making a condition using maximum "max()" and print it.
