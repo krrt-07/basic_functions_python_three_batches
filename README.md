@@ -47,3 +47,17 @@ Prog09: Create a program that print all the numbers starting from 0 to 100 excep
 Prog10: Create a program that ask user to input 2 numbers. Print all the numbers between the two numbers.
 
 ---------------------------------------------------------------------------------------------------------------------------------
+
+BATCH 3
+
+Prog01: Create a program that ask user to input 10 numbers. Display all numbers that don't have duplicate.
+
+Prog02: Create a program that ask user to input 10 numbers. Display all numbers. For numbers with duplicate, display only the first entry.
+
+Prog03: Create a program that ask user to input a number, continue asking until the user input is invalid. Display "Unique" after input when the inputted number don't have duplicate. Display "Duplicate" after input when the inputted number have duplicate.
+
+Prog04: Create a program that ask user to input a number, continue asking until the user input is invalid. Display the lowest number
+
+Prog05: Create a program that ask user to input a number, continue asking until the user input is invalid. Display the number from lowest to highest. Clue: sort() function
+
+---------------------------------------------------------------------------------------------------------------------------------
