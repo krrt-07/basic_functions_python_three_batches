@@ -12,3 +12,6 @@ while True:
 # Add the valid number to the list.
     numbers.append(num)
 # find the Highest number of all of the numbers by making a condition and using maximum "max()" and print it.
+if numbers:
+    highest_number = max(numbers)
+    print(f"The highest number entered is: {highest_number}")
