@@ -4,5 +4,8 @@ numbers = []
 while True:
     user_input = input("Enter a number: ")
 # Make condition that check if the input is not a valid integer.
+    if not user_input.isdigit():
+        print("Invalid input. Stopping the program.")
+        break
 # Convert input to integer and Add the valid number to the list.
 # Find and display the lowest number.
