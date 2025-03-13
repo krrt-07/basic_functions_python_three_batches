@@ -8,4 +8,6 @@ while True:
         print("Invalid input. Stopping the program.")
         break
 # Convert input to integer and Add the valid number to the list.
+    num = int(user_input)
+    numbers.append(num)
 # Find and display the lowest number.
