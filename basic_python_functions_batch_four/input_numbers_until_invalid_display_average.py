@@ -12,3 +12,6 @@ while True:
 # Add the valid number to the list.
     numbers.append(num)
 # Calculate and display the average.
+if numbers:
+    average = sum(numbers) / len(numbers)
+    print(f"The average of the entered numbers is: {average:.2f}")
