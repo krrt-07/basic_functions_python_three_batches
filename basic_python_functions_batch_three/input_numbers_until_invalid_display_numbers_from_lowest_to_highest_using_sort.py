@@ -10,5 +10,6 @@ while True:
 # Convert input to integer.
     num = int(user_input)
 # Add the valid number to the list.
+    numbers.append(num)
 # Sort the list from lowest to highest.
 # Display the sorted numbers.
