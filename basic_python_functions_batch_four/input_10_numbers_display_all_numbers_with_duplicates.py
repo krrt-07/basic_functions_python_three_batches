@@ -6,7 +6,8 @@ for i in range(10):
     numbers.append(number)
 # Find numbers that have duplicates by using another for-loop.
 duplicates = []
-for num in numbers:
-    if numbers.count(num) > 1 and num not in duplicates:
-        duplicates.append(num)
+for number in numbers:
+    if numbers.count(number) > 1 and number not in duplicates:
+        duplicates.append(number)
 # Display only the numbers with duplicates
+print(f"Duplicate numbers: {duplicates}")
