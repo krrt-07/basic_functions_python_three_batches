@@ -10,4 +10,5 @@ while True:
 # Convert input to integer.
     num = int(user_input)
 # Add the valid number to the list.
+    numbers.append(num)
 # Find the number with the most duplicates by making a condition using maximum "max()" and print it.
