@@ -8,5 +8,6 @@ while True:
         print("Invalid input. Stopping the program.")
         break
 # Convert input to integer.
+    num = int(user_input)
 # Add the valid number to the list.
 # find the Highest number of all of the numbers by making a condition and using maximum "max()" and print it.
