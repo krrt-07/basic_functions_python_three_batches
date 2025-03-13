@@ -11,3 +11,8 @@ while True:
     num = int(user_input)
     numbers.append(num)
 # Find and display the lowest number.
+    if numbers:
+        lowest_number = min(numbers)
+        print(f"The lowest number entered is: {lowest_number}")
+    else:
+        print("No valid numbers were entered.")
