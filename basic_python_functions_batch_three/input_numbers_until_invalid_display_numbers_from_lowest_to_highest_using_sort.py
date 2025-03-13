@@ -12,4 +12,5 @@ while True:
 # Add the valid number to the list.
     numbers.append(num)
 # Sort the list from lowest to highest.
+numbers.sort()
 # Display the sorted numbers.
