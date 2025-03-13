@@ -8,6 +8,11 @@ while True:
         print("Invalid input. Stopping the program.")
         break
 # Convert input to integer.
-num = int(user_input)
+    num = int(user_input)
 # Check if the number is already in the list.
 # print the number.
+    if num in numbers:
+        print("Duplicate")
+    else:
+        print("Unique")
+        numbers.append(num)
